@@ -1,6 +1,6 @@
 <h1 align=center> Bem vindo ao meu Github <img src="https://i.pinimg.com/originals/8e/08/b9/8e08b9961b83aa4228c6ede7f4607287.gif" height="30px"> </h1> 
 
-<div class="tenor-gif-embed" data-postid="17687730" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/kobayashi-san-chi-no-maid-dragon-anime-programmer-typing-keyboard-gif-17687730">Kobayashi San Chi No Maid Dragon Anime GIF</a>from <a href="https://tenor.com/search/kobayashi+san+chi+no+maid+dragon-gifs">Kobayashi San Chi No Maid Dragon GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align=right src="https://tenor.com/pt-BR/view/kobayashi-san-chi-no-maid-dragon-anime-programmer-typing-keyboard-gif-17687730" height="200px">
 
 <h4>
       🚀 Meu nome é Lucas <br>
