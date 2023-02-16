@@ -3,7 +3,7 @@
 <h4>
       🚀 Meu nome é Lucas <br>
       🎮 Estudo programação desde 2019 <br>
-      📓 Atualmente curso Sistemas de Informação <br>  <br>
+      📓 Atualmente curso Sistemas de Informação <br><br>
       Tenho experiência com as linguagens:
   </h4>
   <p align="left">
