@@ -4,7 +4,7 @@
       🚀 Meu nome é Lucas <br>
       🎮 Estudo programação desde 2019 <br>
       📓 Atualmente curso Sistemas de Informação <br>
-  <a href="https://www.linkedin.com/in/lucs-barbosa/">https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white </a>
+      🔗 <a href="https://www.linkedin.com/in/lucs-barbosa/"> LinkedIn </a> <br><br>
       
       Tenho experiência com as linguagens:
   </h4>
