@@ -9,10 +9,9 @@
   </h4>
   
   <p align="left">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-    
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+      
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+          
           
   </p>
  
