@@ -30,7 +30,7 @@
 
  <div align="center">
   <a href="https://github.com/lcsbg16">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcsbg16)](https://github.com/anuraghazra/github-readme-stats)
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcsbg16&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
   <div> 
