@@ -1,6 +1,6 @@
 <h1 align=center> Bem vindo ao meu Github <img src="https://i.pinimg.com/originals/8e/08/b9/8e08b9961b83aa4228c6ede7f4607287.gif" height="30px"> </h1> 
 
-<img align=right src="https://tenor.com/pt-BR/view/kobayashi-san-chi-no-maid-dragon-anime-programmer-typing-keyboard-gif-17687730" height="200px">
+
 
 <h4>
       🚀 Meu nome é Lucas <br>
