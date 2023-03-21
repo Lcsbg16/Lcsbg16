@@ -30,6 +30,6 @@
 
 
             
-  <div> 
+  
       <img src = "https://github.com/Lcsbg16/snake/blob/output/github-contribution-grid-snake.svg" alt="My Happy SVG"/>
-  </div>
+  
