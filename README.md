@@ -29,7 +29,4 @@
 ##
 
 
-            
-  <div>
-      <img src = "https://github.com/Lcsbg16/snake/blob/output/github-contribution-grid-snake.svg" alt="My Happy SVG"/>
-  </div>
+![snake gif](https://github.com/Formandodev/Lcsbg16/blob/output/github-contribution-grid-snake.svg)
